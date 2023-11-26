@@ -1,0 +1,37 @@
+.box{
+    width: 300px;
+    height: 200px;
+    margin: auto;
+    border: 5px solid rgb(254, 254, 254)
+
+}
+#box2{background-color: #00A9CE;
+    width:300px;
+    height: 63px;
+    border: 2px solid transparent;
+    
+    
+}
+#box3{background-color: #FDDA25;
+    width:300px;
+    height: 63px;   
+    border: 2px solid transparent;
+}
+#box4{
+    background-color: #00A9CE;
+    width:300px;
+    height: 63px;
+    border: 2px solid transparent;
+    
+}
+
+.triangle {
+    background: auto;
+    border-top: 100px solid transparent;
+    border-bottom: 100px solid transparent;
+    border-left: 120px solid rgb(0, 0, 0);
+    z-index: 2;
+    position: relative;
+    top: -200px;
+    left: 0;
+  }
